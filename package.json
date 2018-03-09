@@ -1,0 +1,21 @@
+{
+  "name": "mochademo",
+  "version": "1.0.0",
+  "description": "mocha demo",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "author": "madhurendra",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.0.4",
+    "sinon": "^4.4.2"
+  },
+  "dependencies": {
+    "moment": "^2.21.0"
+  }
+}
