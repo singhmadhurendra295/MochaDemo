@@ -1,0 +1,11 @@
+ {
+  "name": "subscriptions",
+  "version": "1.0.0",
+  "description": "The subscription module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "madhurendra",
+  "license": "ISC"
+}
